@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        LMU Database Systems Group
       image:
         filename: welcome.jpg
       text: |
