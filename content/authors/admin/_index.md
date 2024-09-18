@@ -72,6 +72,6 @@ user_groups:
   - Researchers
 ---
 
-# Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+# Marcus Paradies is a professor of computer science at the LMU Munich. His research interests include architectures & implementation of modern database systems on modern hardware by considering performance and resource-efficiency aspects. He leads the Database Systems group, which develops novel database systems that utilize modern hardware.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
